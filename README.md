@@ -1,0 +1,1 @@
+In this project, I learnt fundamental programming concepts in Python, such as variables, functions, loops, and conditional statements. I used this in order to create my first cypher programme as part of my Scientific Computing with Python certification with freecodecamp.
